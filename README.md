@@ -1,4 +1,8 @@
 ## Hi there 👋
+## 🚀 Featured Projects
+Here are more projects of mine beyond the pinned six:
+
+- [Azure Price Predictor](https://github.com/haritha-1234/Azure_House_Price_Predictor)
 
 <!--
 **haritha-1234/haritha-1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
