@@ -3,8 +3,7 @@
 
 📊 I enjoy turning data into insights and building real-world analytical projects
 
-📫 Connect with me:  
-[LinkedIn](https://www.linkedin.com/in/haritha-retnakaran-341448162/) | [Email](taiga1earth994@gmail.com)
+📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/haritha-retnakaran-341448162/) | [Email](taiga1earth994@gmail.com)
 ## 🚀 Featured Projects
 Here are more projects of mine beyond the pinned six that are shown below:
 
