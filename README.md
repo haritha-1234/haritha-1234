@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Haritha Retnakaran 👋
 ## 🚀 Featured Projects
 Here are more projects of mine beyond the pinned six that are shown below:
 
