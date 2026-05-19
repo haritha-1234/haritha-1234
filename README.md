@@ -1,4 +1,9 @@
 ## Hi there, I'm Haritha Retnakaran 👋
+💼 Aspiring Data Scientist / Data Analyst | Building skills in Python, SQL, Machine Learning & Data Visualization
+
+📊 I enjoy turning data into insights and building real-world analytical projects
+
+📫 Connect with me: LinkedIn | Email
 ## 🚀 Featured Projects
 Here are more projects of mine beyond the pinned six that are shown below:
 
