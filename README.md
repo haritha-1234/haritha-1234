@@ -6,7 +6,13 @@
 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/haritha-retnakaran-341448162/) | [Email](taiga1earth994@gmail.com)
 
 ## 📊 Data Scientist portfolio
+
 ### 👋 About Me
+Certified Data Scientist with a strong research background in Physics and 6+ years of experience in Python-based data analysis, machine learning, and scientific research.
+
+Experienced in handling large datasets, developing predictive models, and performing statistical analysis across both research and industry projects.
+
+Skilled in Python, SQL, EDA, Machine Learning, and Deep Learning, with a strong interest in Data Science, Artificial Intelligence, and cloud technologies.
 
 ## 🚀 Featured Projects
 Here are more projects of mine beyond the pinned six that are shown below:
