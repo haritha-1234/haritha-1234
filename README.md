@@ -7,7 +7,7 @@
 
 ## 📊 Data Scientist portfolio
 
-### 👋 About Me
+## 👋 About Me
 Certified Data Scientist with a strong research background in Physics and 6+ years of experience in Python-based data analysis, machine learning, and scientific research.
 
 Experienced in handling large datasets, developing predictive models, and performing statistical analysis across both research and industry projects.
