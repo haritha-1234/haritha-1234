@@ -1,9 +1,12 @@
-## Hi there, I'm Haritha Retnakaran 👋
+# Hi there, I'm Haritha Retnakaran 👋
 💼 Aspiring Data Scientist / Data Analyst | Building skills in Python, SQL, Machine Learning & Data Visualization
 
 📊 I enjoy turning data into insights and building real-world analytical projects
 
 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/haritha-retnakaran-341448162/) | [Email](taiga1earth994@gmail.com)
+
+# 📊 Data Scientist
+
 ## 🚀 Featured Projects
 Here are more projects of mine beyond the pinned six that are shown below:
 
