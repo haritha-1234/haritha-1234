@@ -23,8 +23,7 @@ Skilled in Python, SQL, EDA, Machine Learning, and Deep Learning, with a strong 
 - Time Series Analysis
 - Data Cleaning & Feature Engineering
 ### 🤖 Machine Learning & AI
-- Scikit-learn
-- TensorFlow
+- Scikit-learn - TensorFlow
 - PyTorch
 - Keras
 - MLflow
