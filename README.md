@@ -22,7 +22,54 @@ Skilled in Python, SQL, EDA, Machine Learning, and Deep Learning, with a strong 
 - Natural Language Processing (NLP)
 - Time Series Analysis
 - Data Cleaning & Feature Engineering
-
+### 🤖 Machine Learning & AI
+- Scikit-learn
+- TensorFlow
+- PyTorch
+- Keras
+- MLflow
+- Deep Learning Models
+### 💻 Programming
+- Python
+- SQL
+- Bash
+- Fortran
+### 📈 Data Analysis & Visualization
+- Pandas
+- NumPy
+- SciPy
+- Matplotlib
+- Seaborn
+- Plotly
+- Power BI
+- Microsoft Excel
+- Gnuplot
+- Origin
+### ☁️ Cloud & Platforms
+- Microsoft Azure
+- DESY Cloud
+### Version control
+- Git & GitHub
+### Operating systems
+- Linux
+- Windows
+- macOS
+### 🔧 Tools & Technologies
+- Streamlit
+- LaTeX
+- Microsoft Office
+- HubSpot
+- PyWavelets
+### 🧠 Soft Skills
+- Communication
+- Leadership
+- Collaboration
+- Problem Solving
+- Decision Making
+- Adaptability
+- Time Management
+- Mentoring
+- Teamwork
 ## 🚀 Featured Projects
 Here are more projects of mine beyond the pinned six that are shown below:
 
