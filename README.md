@@ -15,6 +15,13 @@ Experienced in handling large datasets, developing predictive models, and perfor
 Skilled in Python, SQL, EDA, Machine Learning, and Deep Learning, with a strong interest in Data Science, Artificial Intelligence, and cloud technologies.
 
 ## 🧠 Core Skills
+### 📊 Data Science & Analytics
+- Exploratory Data Analysis (EDA)
+- Statistical Analysis & Predictive Modeling
+- Machine Learning & Deep Learning
+- Natural Language Processing (NLP)
+- Time Series Analysis
+- Data Cleaning & Feature Engineering
 
 ## 🚀 Featured Projects
 Here are more projects of mine beyond the pinned six that are shown below:
