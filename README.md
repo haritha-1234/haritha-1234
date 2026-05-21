@@ -16,7 +16,7 @@ Skilled in Python, SQL, EDA, Machine Learning, and Deep Learning, with a strong 
 
 ## 🧠 Core Skills
 | 📊 Data Science & Analytics | 🤖 Machine Learning & AI | 📈 Data Analysis & Visualization |
-|---|---|
+|---|---|---|
 | • Exploratory Data Analysis (EDA)<br>• Statistical Analysis & Predictive Modeling<br>• Machine Learning & Deep Learning<br>• Natural Language Processing (NLP)<br>• Time Series Analysis<br>• Data Cleaning & Feature Engineering | • Scikit-learn<br>• TensorFlow<br>• PyTorch<br>• Keras<br>• MLflow<br>• Deep Learning Models | •Pandas<br>• NumPy<br>•  SciPy<br>• Matplotlib<br>• Seaborn<br>• Plotly<br>• Power BI<br>• Microsoft Excel<br>• Gnuplot<br>• Origin |
 ### 📊 Data Science & Analytics
 - Exploratory Data Analysis (EDA)
