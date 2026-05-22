@@ -19,9 +19,9 @@ Skilled in Python, SQL, EDA, Machine Learning, and Deep Learning, with a strong 
 |---|---|---|
 | • Exploratory Data Analysis (EDA)<br>• Statistical Analysis & Predictive Modeling<br>• Machine Learning & Deep Learning<br>• Natural Language Processing (NLP)<br>• Time Series Analysis<br>• Data Cleaning & Feature Engineering | • Scikit-learn<br>• TensorFlow<br>• PyTorch<br>• Keras<br>• MLflow<br>• Deep Learning Models | •Pandas<br>• NumPy<br>•  SciPy<br>• Matplotlib<br>• Seaborn<br>• Plotly<br>• Power BI<br>• Microsoft Excel<br>• Gnuplot<br>• Origin |
 
-| 💻 Programming | ☁️ Cloud & Platforms | 🔧 Tools & Technologies |
-|---|---|---|
-| • Python<br>• SQL<br>• Bash<br>• Fortran | • Scikit-learn<br>• TensorFlow<br>• PyTorch<br>• Keras<br>• MLflow<br>• Deep Learning Models | •Pandas<br>• NumPy<br>•  SciPy<br>• Matplotlib<br>• Seaborn<br>• Plotly<br>• Power BI<br>• Microsoft Excel<br>• Gnuplot<br>• Origin |
+| 💻 Programming | ☁️ Cloud & Platforms | 🔧 Tools & Technologies | Operating Systems | Version control | 
+|---|---|---|---|---|
+| • Python<br>• SQL<br>• Bash<br>• Fortran | • Scikit-learn<br>• TensorFlow<br>• PyTorch<br>• Keras<br>• MLflow<br>• Deep Learning Models | •Pandas<br>• NumPy<br>•  SciPy<br>• Matplotlib<br>• Seaborn<br>• Plotly<br>• Power BI<br>• Microsoft Excel<br>• Gnuplot<br>• Origin | •Microsoft Azure<br>• DESY Cloud | •Git & GitHub |
 
 ### 📊 Data Science & Analytics
 - Exploratory Data Analysis (EDA)
