@@ -21,7 +21,7 @@ Skilled in Python, SQL, EDA, Machine Learning, and Deep Learning, with a strong 
 
 | 🔧 Tools & Technologies |  💻 Programming | ☁️ Cloud & Platforms | Operating Systems | Version control | 
 |---|---|---|---|---|
-| •Pandas<br>• NumPy<br>•  SciPy<br>• Matplotlib<br>• Seaborn<br>• Plotly<br>• Power BI<br>• Microsoft Excel<br>• Gnuplot<br>• Origin• | Python<br>• SQL<br>• Bash<br>• Fortran | •Microsoft Azure<br>• DESY Cloud | •Microsoft Azure<br>• DESY Cloud | •Git & GitHub |
+| •Pandas<br>• NumPy<br>•  SciPy<br>• Matplotlib<br>• Seaborn<br>• Plotly<br>• Power BI<br>• Microsoft Excel<br>• Gnuplot<br>• Origin | •Python<br>• SQL<br>• Bash<br>• Fortran | •Microsoft Azure<br>• DESY Cloud | •Microsoft Azure<br>• DESY Cloud | •Git & GitHub |
 
 ### 📊 Data Science & Analytics
 - Exploratory Data Analysis (EDA)
