@@ -34,6 +34,23 @@ Skilled in Python, SQL, EDA, Machine Learning, and Deep Learning, with a strong 
 - Mentoring
 - Teamwork
 ## 🚀 Featured Projects
+
+## 🏠 Azure House Price Predictor
+
+A machine learning web application that predicts house prices using a multivariate linear regression model deployed on Microsoft Azure with Streamlit integration.
+
+### 🔹 Key Highlights
+- Built a multivariate regression model using Python and Scikit-learn
+- Developed an interactive Streamlit web application for real-time predictions
+- Implemented end-to-end ML workflow including training, prediction, and deployment
+- Deployed the application on an Azure Virtual Machine using SSH and SCP
+- Configured cloud networking and exposed the app through Azure inbound port rules
+
+### 🛠️ Technologies Used
+Python • Scikit-learn • Streamlit • Azure VM • SQL • Pandas • NumPy
+
+### 🔗 Project Link
+[Azure House Price Predictor](https://github.com/haritha-1234/Azure_House_Price_Predictor)
 Here are more projects of mine beyond the pinned six that are shown below:
 
 1. [Azure Price Predictor](https://github.com/haritha-1234/Azure_House_Price_Predictor)
