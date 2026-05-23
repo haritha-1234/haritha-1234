@@ -135,7 +135,7 @@ A deep learning project that uses Convolutional Neural Networks (CNNs) to classi
 Python • PyTorch • CNN • NumPy • Pandas • Deep Learning • Computer Vision
 
 ### 🔗 Project Link
-[Signal–Background Discrimination using CNN](https://github.com/haritha-1234/Signal-Background-discrimination-CNN)
+[CNN Signal–Background Discrimination](https://github.com/haritha-1234/Signal-Background-discrimination-CNN)
 
 #Here are more projects of mine beyond the pinned six that are shown below:
 
