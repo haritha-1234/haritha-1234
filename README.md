@@ -171,6 +171,12 @@ Python • Scientific Computing • NumPy • Physics Simulation • Object-Orie
 ### 🔗 Project Link
 [Electron_Rings_Analytical-Study](https://github.com/haritha-1234/Electron_Rings_Analytical-Study)
 
+---
+Thank you for taking the time to review my portfolio.  
+I am passionate about Data Science, Machine Learning, and Scientific Computing, and I am continuously working on improving my skills through real-world projects and research.
+
+📫 Open to opportunities in Data Science, Machine Learning, and AI
+
 Six of the above repositories are pinned below!
 <!--
 **haritha-1234/haritha-1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
