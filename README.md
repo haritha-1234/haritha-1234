@@ -69,6 +69,23 @@ Power BI • DAX • Data Visualization • Data Cleaning • Analytics • Dash
 ### 🔗 Project Link
 [Dashboard on Data jobs analysis](https://github.com/haritha-1234/Dashboard-Data-jobs-analysis)
 
+## 🫁 Machine Learning for Mechanical Ventilator Pressure Prediction
+
+A machine learning project focused on predicting lung pressure in mechanical ventilators using time-series modeling, feature engineering, and deep learning approaches for intelligent respiratory support systems.
+
+### 🔹 Key Highlights
+- Developed ML models to predict airway pressure in mechanical ventilators using multivariate time-series data
+- Performed extensive feature engineering including autoregressive and time-shifted features
+- Implemented and compared Linear Regression, XGBoost, and Artificial Neural Networks (ANN)
+- Achieved a significant improvement in prediction accuracy, reducing MAE from 3.38 to 0.15 cmH₂O
+- Applied deep learning techniques to support adaptive and automated ventilation systems during COVID-19 healthcare challenges
+
+### 🛠️ Technologies Used
+Python • Scikit-learn • XGBoost • TensorFlow • Keras • Pandas • NumPy • Time Series Analysis • Feature Engineering
+
+### 🔗 Project Link
+[https://github.com/haritha-1234/ML_Mech_Ventilator](YOUR_GITHUB_REPO_LINK)
+
 #Here are more projects of mine beyond the pinned six that are shown below:
 
 1. [Azure Price Predictor](https://github.com/haritha-1234/Azure_House_Price_Predictor)
