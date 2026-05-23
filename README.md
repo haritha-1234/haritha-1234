@@ -154,6 +154,23 @@ Python • Scikit-learn • Pandas • NumPy • Random Forest • Machine Learn
 ### 🔗 Project Link
 [Signal–Background Discriminator](https://github.com/haritha-1234/Signal_Background_classification-Random-Forest)
 
+## ⚛️ Analytical Study of Electron Rings in Air Showers
+
+A physics-driven analytical and computational study of electron ring formation in air shower simulations, extending theoretical models in high-energy particle physics.
+
+### 🔹 Key Highlights
+- Performed analytical modeling of electron ring structures in simulated air shower data
+- Extended theoretical formulations in air shower physics using computational methods
+- Implemented physics-based equations using Python for numerical evaluation
+- Structured the simulation logic using modular class-based programming
+- Validated theoretical insights with reference to Particle Data Book constants and published research
+
+### 🛠️ Technologies Used
+Python • Scientific Computing • NumPy • Physics Simulation • Object-Oriented Programming • Data Modeling
+
+### 🔗 Project Link
+[Electron_Rings_Analytical-Study](https://github.com/haritha-1234/Electron_Rings_Analytical-Study)
+
 #Here are more projects of mine beyond the pinned six that are shown below:
 
 1. [Azure Price Predictor](https://github.com/haritha-1234/Azure_House_Price_Predictor)
