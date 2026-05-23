@@ -171,11 +171,7 @@ Python • Scientific Computing • NumPy • Physics Simulation • Object-Orie
 ### 🔗 Project Link
 [Electron_Rings_Analytical-Study](https://github.com/haritha-1234/Electron_Rings_Analytical-Study)
 
-#Here are more projects of mine beyond the pinned six that are shown below:
-
-1. [Azure Price Predictor](https://github.com/haritha-1234/Azure_House_Price_Predictor)
-2. [Dashboard on Data jobs analysis](https://github.com/haritha-1234/Dashboard-Data-jobs-analysis)
-
+Six of the above repositories are pinned below!
 <!--
 **haritha-1234/haritha-1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
