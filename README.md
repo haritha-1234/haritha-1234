@@ -84,7 +84,7 @@ A machine learning project focused on predicting lung pressure in mechanical ven
 Python • Scikit-learn • XGBoost • TensorFlow • Keras • Pandas • NumPy • Time Series Analysis • Feature Engineering
 
 ### 🔗 Project Link
-[https://github.com/haritha-1234/ML_Mech_Ventilator](YOUR_GITHUB_REPO_LINK)
+[ML Mechanical ventilator](https://github.com/haritha-1234/ML_Mech_Ventilator)
 
 #Here are more projects of mine beyond the pinned six that are shown below:
 
