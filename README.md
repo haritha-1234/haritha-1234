@@ -77,6 +77,7 @@ A machine learning project focused on predicting lung pressure in mechanical ven
 - Developed ML models to predict airway pressure in mechanical ventilators using multivariate time-series data
 - Performed extensive feature engineering including autoregressive and time-shifted features
 - Implemented and compared Linear Regression, XGBoost, and Artificial Neural Networks (ANN)
+- Capstone project improving model accuracy by 95.38% through hyperparameter tuning
 - Achieved a significant improvement in prediction accuracy, reducing MAE from 3.38 to 0.15 cmH₂O
 - Applied deep learning techniques to support adaptive and automated ventilation systems during COVID-19 healthcare challenges
 
