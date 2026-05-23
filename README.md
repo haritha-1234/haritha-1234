@@ -67,7 +67,8 @@ An interactive Power BI dashboard analyzing global data job markets, salary tren
 Power BI • DAX • Data Visualization • Data Cleaning • Analytics • Dashboard Design
 
 ### 🔗 Project Link
-[📂 Repository](https://github.com/haritha-1234/Dashboard-Data-jobs-analysis)
+[Dashboard on Data jobs analysis](https://github.com/haritha-1234/Dashboard-Data-jobs-analysis)
+
 #Here are more projects of mine beyond the pinned six that are shown below:
 
 1. [Azure Price Predictor](https://github.com/haritha-1234/Azure_House_Price_Predictor)
