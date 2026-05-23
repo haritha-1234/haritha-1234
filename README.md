@@ -120,6 +120,23 @@ Python • Pandas • NumPy • Matplotlib • Seaborn • Exploratory Data Anal
 ### 🔗 Project Link
 [EDA King county housing analysis](https://github.com/haritha-1234/EDA_project_King_County_Housing_data)
 
+## 🔭 Signal–Background Discrimination using CNN
+
+A deep learning project that uses Convolutional Neural Networks (CNNs) to classify gamma-ray signals and proton background noise from telescope image data.
+
+### 🔹 Key Highlights
+- Built CNN models for signal (gamma) vs background (proton) classification
+- Worked with simulated telescope image data from CORSIKA and Sim_telarray
+- Developed a two-stage CNN pipeline for improved classification performance
+- Performed feature learning directly from raw .npy image data
+- Evaluated model performance using signal/background efficiency and quality factor
+
+### 🛠️ Technologies Used
+Python • PyTorch • CNN • NumPy • Pandas • Deep Learning • Computer Vision
+
+### 🔗 Project Link
+[Signal–Background Discrimination using CNN](https://github.com/haritha-1234/Signal-Background-discrimination-CNN)
+
 #Here are more projects of mine beyond the pinned six that are shown below:
 
 1. [Azure Price Predictor](https://github.com/haritha-1234/Azure_House_Price_Predictor)
