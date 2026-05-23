@@ -86,6 +86,23 @@ Python • Scikit-learn • XGBoost • TensorFlow • Keras • Pandas • NumP
 ### 🔗 Project Link
 [ML Mechanical ventilator](https://github.com/haritha-1234/ML_Mech_Ventilator)
 
+## 🐦 Twitter Sentiment Analysis
+
+A Natural Language Processing (NLP) project focused on analyzing Twitter comments and classifying sentiments as positive or negative using machine learning techniques.
+
+### 🔹 Key Highlights
+- Performed sentiment classification on Twitter text data using NLP techniques
+- Conducted detailed Exploratory Data Analysis (EDA) and text visualization
+- Built a Naive Bayes classification model achieving 94% accuracy
+- Processed and cleaned unstructured text data for machine learning workflows
+- Evaluated model performance using classification metrics and confusion matrix analysis
+
+### 🛠️ Technologies Used
+Python • NLP • Scikit-learn • Pandas • NumPy • Matplotlib • Seaborn • Naive Bayes
+
+### 🔗 Project Link
+[Twitter Sentiment Analysis](https://github.com/haritha-1234/NLP_Twitter_Sentiment_Analysis)
+
 #Here are more projects of mine beyond the pinned six that are shown below:
 
 1. [Azure Price Predictor](https://github.com/haritha-1234/Azure_House_Price_Predictor)
