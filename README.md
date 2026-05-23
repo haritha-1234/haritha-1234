@@ -137,6 +137,23 @@ Python • PyTorch • CNN • NumPy • Pandas • Deep Learning • Computer V
 ### 🔗 Project Link
 [CNN Signal–Background Discrimination](https://github.com/haritha-1234/Signal-Background-discrimination-CNN)
 
+## 📡 Signal–Background Discriminator (Random Forest)
+
+A machine learning classification project that uses Random Forest to distinguish between gamma-ray signals and proton background noise using engineered telescope image features.
+
+### 🔹 Key Highlights
+- Built a Random Forest classifier for signal (gamma) vs background (proton) separation
+- Worked with structured tabular dataset extracted from telescope image properties
+- Used engineered features such as length, width, and size for classification
+- Evaluated model performance using signal/background efficiency and quality factor
+- Compared results with deep learning-based approaches for performance insights
+
+### 🛠️ Technologies Used
+Python • Scikit-learn • Pandas • NumPy • Random Forest • Machine Learning • Feature Engineering
+
+### 🔗 Project Link
+[Signal–Background Discriminator](https://github.com/haritha-1234/Signal_Background_classification-Random-Forest)
+
 #Here are more projects of mine beyond the pinned six that are shown below:
 
 1. [Azure Price Predictor](https://github.com/haritha-1234/Azure_House_Price_Predictor)
