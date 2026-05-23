@@ -103,6 +103,23 @@ Python • NLP • Scikit-learn • Pandas • NumPy • Matplotlib • Seaborn 
 ### 🔗 Project Link
 [Twitter Sentiment Analysis](https://github.com/haritha-1234/NLP_Twitter_Sentiment_Analysis)
 
+## 🏡 EDA on King County Housing Data
+
+An exploratory data analysis project on housing sales in King County, USA, aimed at uncovering insights and providing data-driven recommendations for house buyers and sellers.
+
+### 🔹 Key Highlights
+- Performed in-depth exploratory data analysis on real-world housing sales data
+- Analyzed relationships between house features such as size, bathrooms, location, and price
+- Investigated key business questions including pricing trends and feature impact over time
+- Identified patterns in large houses (4+ bathrooms) and their geographic distribution
+- Provided a data-driven recommendation for a potential buyer based on stakeholder requirements
+
+### 🛠️ Technologies Used
+Python • Pandas • NumPy • Matplotlib • Seaborn • Exploratory Data Analysis • Data Visualization
+
+### 🔗 Project Link
+[EDA King county housing analysis](https://github.com/haritha-1234/EDA_project_King_County_Housing_data)
+
 #Here are more projects of mine beyond the pinned six that are shown below:
 
 1. [Azure Price Predictor](https://github.com/haritha-1234/Azure_House_Price_Predictor)
