@@ -15,13 +15,13 @@ Experienced in handling large datasets, developing predictive models, and perfor
 Skilled in Python, SQL, EDA, Machine Learning, and Deep Learning, with a strong interest in Data Science, Artificial Intelligence, and cloud technologies.
 
 ## 🧠 Core Skills
-| 📊 Data Science & Analytics | 📈 Data Analysis & Visualization | 🤖 Machine Learning & AI |
-|---|---|---|
-| • Exploratory Data Analysis (EDA)<br>• Statistical Analysis & Predictive Modeling<br>• Machine Learning & Deep Learning<br>• Natural Language Processing (NLP)<br>• Time Series Analysis<br>• Data Cleaning & Feature Engineering | •Pandas<br>• NumPy<br>•  SciPy<br>• Matplotlib<br>• Seaborn<br>• Plotly<br>• Power BI<br>• Microsoft Excel<br>• Gnuplot<br>• Origin | • Scikit-learn<br>• TensorFlow<br>• PyTorch<br>• Keras<br>• MLflow<br>• Deep Learning Models |
+| 📊 Data Science & Analytics | 📈 Data Analysis & Visualization | 🤖 Machine Learning & AI | Orchestration & Containerization | 
+|---|---|---|---|
+| • Exploratory Data Analysis (EDA)<br>• Statistical Analysis & Predictive Modeling<br>• Machine Learning & Deep Learning<br>• Natural Language Processing (NLP)<br>• Time Series Analysis<br>• Data Cleaning & Feature Engineering | •Pandas<br>• NumPy<br>•  SciPy<br>• Matplotlib<br>• Seaborn<br>• Plotly<br>• Power BI<br>• Microsoft Excel<br>• Gnuplot<br>• Origin | • Scikit-learn<br>• TensorFlow<br>• PyTorch<br>• Keras<br>• MLflow<br>• Deep Learning Models |• Apache Airflow<br>• Docker<br>• Docker Compose |
 
 | 🔧 Tools & Technologies |  💻 Programming | ☁️ Cloud & Platforms | 💻 Operating Systems | 🔄 Version control | 
 |---|---|---|---|---|
-| •Streamlit<br>• LaTeX<br>•  Microsoft Office<br>• HubSpot<br>• PyWavelets | •Python<br>• SQL<br>• Bash<br>• Fortran | •Microsoft Azure<br>• DESY Cloud | •Linux<br>• Windows<br>• MacOS | •Git & GitHub |
+| • Streamlit<br>• LaTeX<br>•  Microsoft Office<br>• HubSpot<br>• PyWavelets | •Python<br>• SQL<br>• Bash<br>• Fortran | •Microsoft Azure<br>• DESY Cloud | •Linux<br>• Windows<br>• MacOS | •Git & GitHub |
 
 ### 🧠 Soft Skills
 - Communication
