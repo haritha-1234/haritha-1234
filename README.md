@@ -35,6 +35,23 @@ Skilled in Python, SQL, EDA, Machine Learning, and Deep Learning, with a strong 
 - Teamwork
 ## 🚀 Featured Projects
 
+## 🌦️ Automated ML Pipeline with Airflow & Docker
+
+An end-to-end automated machine learning pipeline that fetches live weather data daily, trains a Random Forest model, and logs results — fully orchestrated with Apache Airflow and containerized with Docker.
+### 🔹 Key Highlights
+
+Built a scheduled ML pipeline that runs automatically every day at 8AM using Apache Airflow DAGs
+Containerized the entire application using Docker and Docker Compose for reproducibility
+Implemented end-to-end workflow: data fetching from a live API → preprocessing → model training → results logging
+Wrote 7 unit tests with pytest covering all pipeline components including API mocking
+Set up CI/CD with GitHub Actions — tests run automatically on every push to main
+
+### 🛠️ Technologies Used
+
+Python • Apache Airflow • Docker • Scikit-learn • Pandas • NumPy • pytest • GitHub Actions
+
+### 🔗 Project Link [Automated ML Pipeline with Airflow & Docker](https://github.com/haritha-1234/ml-pipeline-airflow)
+
 ## 🏠 Azure House Price Predictor
 
 A machine learning web application that predicts house prices using a multivariate linear regression model deployed on Microsoft Azure with Streamlit integration.
