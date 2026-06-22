@@ -50,7 +50,8 @@ Set up CI/CD with GitHub Actions — tests run automatically on every push to ma
 
 Python • Apache Airflow • Docker • Scikit-learn • Pandas • NumPy • pytest • GitHub Actions
 
-### 🔗 Project Link [Automated ML Pipeline with Airflow & Docker](https://github.com/haritha-1234/ml-pipeline-airflow)
+### 🔗 Project Link 
+[Automated ML Pipeline with Airflow & Docker](https://github.com/haritha-1234/ml-pipeline-airflow)
 
 ## 🏠 Azure House Price Predictor
 
