@@ -35,6 +35,23 @@ Skilled in Python, SQL, EDA, Machine Learning, and Deep Learning, with a strong 
 - Teamwork
 ## 🚀 Featured Projects
 
+## 🔄 ChurnShield — Customer Churn Prediction ML Pipeline
+
+A production-ready end-to-end machine learning pipeline that predicts customer churn using the Telco Customer Churn dataset, featuring automated experiment tracking, model selection, testing, and CI/CD workflows.
+
+### 🔹 Key Highlights
+- Built a modular ML pipeline covering data ingestion, feature engineering, training, and evaluation
+- Implemented experiment tracking and model registry using MLflow
+- Trained and compared Logistic Regression and Random Forest models
+- Developed automated unit tests with pytest and GitHub Actions CI
+- Automated best-model selection based on ROC AUC performance
+
+### 🛠️ Technologies Used
+Python • Scikit-learn • MLflow • Pandas • NumPy • Pytest • GitHub Actions • CI/CD
+
+### 🔗 Project Link
+[ChurnShield — Customer Churn Prediction ML Pipeline](https://github.com/haritha-1234/churnshield-customer-churn-prediction-ml-pipeline)
+
 ## 🌦️ Automated ML Pipeline with Airflow & Docker
 
 An end-to-end automated machine learning pipeline that fetches live weather data daily, trains a Random Forest model, and logs results — fully orchestrated with Apache Airflow and containerized with Docker.
