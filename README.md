@@ -21,7 +21,7 @@ Skilled in Python, SQL, EDA, Machine Learning, and Deep Learning, with a strong 
 
 | 🔧 Tools & Technologies |  💻 Programming | ☁️ Cloud & Platforms | 💻 Operating Systems | 🔄 Version control | 
 |---|---|---|---|---|
-| • Streamlit<br>• LaTeX<br>•  Microsoft Office<br>• HubSpot<br>• PyWavelets | •Python<br>• SQL<br>• Bash<br>• Fortran | •Microsoft Azure<br>• DESY Cloud | •Linux<br>• Windows<br>• MacOS | •Git & GitHub |
+| • Streamlit<br>• LaTeX<br>•  Microsoft Office<br>• HubSpot<br>• PyWavelets | •Python<br>• SQL<br>• Bash<br>• Fortran | •Microsoft Azure<br>• DESY Cloud<br>• Databricks<br>• PySpark | •Linux<br>• Windows<br>• MacOS | •Git & GitHub |
 
 ### 🧠 Soft Skills
 - Communication
@@ -34,6 +34,26 @@ Skilled in Python, SQL, EDA, Machine Learning, and Deep Learning, with a strong 
 - Mentoring
 - Teamwork
 ## 🚀 Featured Projects
+
+## 🛒 E-Commerce Customer Intelligence with Databricks & GenAI
+
+An end-to-end e-commerce analytics and machine learning project using PySpark and Databricks to analyze customer behavior, predict purchase intent, track experiments with MLflow, and explore LLM-powered business insights.
+
+### 🔹 Key Highlights
+
+* Analyzed **25,000 e-commerce customer sessions** using PySpark and Databricks
+* Performed **EDA, data transformation, feature engineering, and purchase-funnel analysis**
+* Built a **Spark ML Logistic Regression** model achieving **0.763 AUC**
+* Used **MLflow** for experiment tracking, model logging, and model reloading
+* Developed a **GenAI/LLM prompt prototype** to transform analytical results into business recommendations
+
+### 🛠️ Technologies Used
+
+PySpark • Databricks • Spark ML • Python • SQL • MLflow • GenAI/LLM • Git & GitHub
+
+### 🔗 Project Link
+
+[E-Commerce Customer Intelligence with Databricks & GenAI](https://github.com/haritha-1234/ecommerce-customer-intelligence-databricks)
 
 ## 🔄 ChurnShield — Customer Churn Prediction ML Pipeline
 
