@@ -37,7 +37,7 @@ Skilled in Python, SQL, EDA, Machine Learning, and Deep Learning, with a strong 
 
 ## 🛒 E-Commerce Customer Intelligence with Databricks & GenAI
 
-An end-to-end e-commerce analytics and machine learning project using PySpark and Databricks to analyze customer behavior, predict purchase intent, track experiments with MLflow, and explore LLM-powered business insights.
+An end-to-end e-commerce analytics and machine learning project using PySpark and Databricks to analyze customer behavior, predict purchase intent and track experiments with MLflow
 
 ### 🔹 Key Highlights
 
@@ -45,15 +45,14 @@ An end-to-end e-commerce analytics and machine learning project using PySpark an
 * Performed **EDA, data transformation, feature engineering, and purchase-funnel analysis**
 * Built a **Spark ML Logistic Regression** model achieving **0.763 AUC**
 * Used **MLflow** for experiment tracking, model logging, and model reloading
-* Developed a **GenAI/LLM prompt prototype** to transform analytical results into business recommendations
 
 ### 🛠️ Technologies Used
 
-PySpark • Databricks • Spark ML • Python • SQL • MLflow • GenAI/LLM • Git & GitHub
+PySpark • Databricks • Spark ML • Python • SQL • MLflow • Git & GitHub
 
 ### 🔗 Project Link
 
-[E-Commerce Customer Intelligence with Databricks & GenAI](https://github.com/haritha-1234/ecommerce-customer-intelligence-databricks)
+[E-Commerce Customer Intelligence with Databricks](https://github.com/haritha-1234/ecommerce-customer-intelligence-databricks)
 
 ## 🔄 ChurnShield — Customer Churn Prediction ML Pipeline
 
