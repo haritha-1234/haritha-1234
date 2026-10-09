@@ -35,7 +35,7 @@ Skilled in Python, SQL, EDA, Machine Learning, and Deep Learning, with a strong 
 - Teamwork
 ## 🚀 Featured Projects
 
-## 🛒 E-Commerce Customer Intelligence with Databricks & GenAI
+## 🛒 E-Commerce Customer Intelligence with Databricks
 
 An end-to-end e-commerce analytics and machine learning project using PySpark and Databricks to analyze customer behavior, predict purchase intent and track experiments with MLflow
 
