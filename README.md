@@ -17,7 +17,7 @@ Skilled in Python, SQL, EDA, Machine Learning, and Deep Learning, with a strong 
 ## 🧠 Core Skills
 | 📊 Data Science & Analytics | 📈 Data Analysis & Visualization | 🤖 Machine Learning & AI | Orchestration & Containerization | 
 |---|---|---|---|
-| • Exploratory Data Analysis (EDA)<br>• Statistical Analysis & Predictive Modeling<br>• Machine Learning & Deep Learning<br>• Natural Language Processing (NLP)<br>• Time Series Analysis<br>• Data Cleaning & Feature Engineering | • Pandas<br>• NumPy<br>•  SciPy<br>• Matplotlib<br>• Seaborn<br>• Plotly<br>• Power BI<br>• Microsoft Excel<br>• Gnuplot<br>• Origin | • Scikit-learn<br>• TensorFlow<br>• PyTorch<br>• Keras<br>• MLflow<br>• Deep Learning Models |• Apache Airflow<br>• Docker<br>• Docker Compose |
+| • Exploratory Data Analysis (EDA)<br>• Statistical Analysis & Predictive Modeling<br>• Machine Learning & Deep Learning<br>• Natural Language Processing (NLP)<br>• Time Series Analysis<br>• Data Cleaning & Feature Engineering | • Pandas<br>• NumPy<br>•  SciPy<br>• Matplotlib<br>• Seaborn<br>• Plotly<br>• Power BI<br>• Microsoft Excel<br>• Gnuplot<br>• Origin | • Scikit-learn<br>• TensorFlow<br>• PyTorch<br>• Keras<br>• MLflow<br>• Deep Learning Models• LangChain• RAG Pipelines• Vector Databases|• Apache Airflow<br>• Docker<br>• Docker Compose |
 
 | 🔧 Tools & Technologies |  💻 Programming | ☁️ Cloud & Platforms | 💻 Operating Systems | 🔄 Version control | 
 |---|---|---|---|---|
@@ -34,6 +34,35 @@ Skilled in Python, SQL, EDA, Machine Learning, and Deep Learning, with a strong 
 - Mentoring
 - Teamwork
 ## 🚀 Featured Projects
+
+## 🧠 DocuMind — RAG Pipeline
+
+An end-to-end Retrieval Augmented Generation (RAG) pipeline
+that lets you ask questions about your own documents using
+local open-source AI models — no API key needed.
+Built with LangChain, ChromaDB, HuggingFace, and Streamlit.
+
+### 🔹 Key Highlights
+
+- Built a complete RAG pipeline covering ingestion, chunking,
+  vectorization, retrieval, prompting, generation and output
+- Developed first in Jupyter notebooks for step-by-step
+  understanding, then refactored into clean Python modules
+- Used ChromaDB as a local vector database for semantic search
+- Ran all models completely locally using HuggingFace
+  open-source models — no API key or cost required
+- Built an interactive Streamlit UI to upload any PDF
+  and ask questions about it in a chat interface
+
+### 🛠️ Technologies Used
+
+Python • LangChain • ChromaDB • HuggingFace • Streamlit •
+sentence-transformers • flan-t5 • RAG • Vector Database •
+Prompt Engineering • Jupyter
+
+### 🔗 Project Link
+
+[DocuMind — RAG Pipeline](https://github.com/haritha-1234/documind-rag-pipeline)
 
 ## 🛒 E-Commerce Customer Intelligence with Databricks
 
