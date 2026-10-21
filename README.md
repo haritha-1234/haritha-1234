@@ -58,7 +58,7 @@ Built with LangChain, ChromaDB, HuggingFace, and Streamlit.
 
 Python • LangChain • ChromaDB • HuggingFace • Streamlit •
 sentence-transformers • flan-t5 • RAG • Vector Database •
-Prompt Engineering • Jupyter
+Prompt Engineering • VS Code • Jupyter Notebooks
 
 ### 🔗 Project Link
 
