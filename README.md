@@ -17,7 +17,7 @@ Skilled in Python, SQL, EDA, Machine Learning, and Deep Learning, with a strong 
 ## 🧠 Core Skills
 | 📊 Data Science & Analytics | 📈 Data Analysis & Visualization | 🤖 Machine Learning & AI | Orchestration & Containerization | 
 |---|---|---|---|
-| • Exploratory Data Analysis (EDA)<br>• Statistical Analysis & Predictive Modeling<br>• Machine Learning & Deep Learning<br>• Natural Language Processing (NLP)<br>• Time Series Analysis<br>• Data Cleaning & Feature Engineering | • Pandas<br>• NumPy<br>•  SciPy<br>• Matplotlib<br>• Seaborn<br>• Plotly<br>• Power BI<br>• Microsoft Excel<br>• Gnuplot<br>• Origin | • Scikit-learn<br>• TensorFlow<br>• PyTorch<br>• Keras<br>• MLflow<br>• Deep Learning Models• LangChain• RAG Pipelines• Vector Databases|• Apache Airflow<br>• Docker<br>• Docker Compose |
+| • Exploratory Data Analysis (EDA)<br>• Statistical Analysis & Predictive Modeling<br>• Machine Learning & Deep Learning<br>• Natural Language Processing (NLP)<br>• Time Series Analysis<br>• Data Cleaning & Feature Engineering | • Pandas<br>• NumPy<br>•  SciPy<br>• Matplotlib<br>• Seaborn<br>• Plotly<br>• Power BI<br>• Microsoft Excel<br>• Gnuplot<br>• Origin | • Scikit-learn<br>• TensorFlow<br>• PyTorch<br>• Keras<br>• MLflow<br>• Deep Learning Models<br>• LangChain<br>• RAG Pipelines|• Apache Airflow<br>• Docker<br>• Docker Compose |
 
 | 🔧 Tools & Technologies |  💻 Programming | ☁️ Cloud & Platforms | 💻 Operating Systems | 🔄 Version control | 
 |---|---|---|---|---|
