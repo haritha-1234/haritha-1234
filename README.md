@@ -17,7 +17,7 @@ Skilled in Python, SQL, EDA, Machine Learning, and Deep Learning, with a strong 
 ## 🧠 Core Skills
 | 📊 Data Science & Analytics | 📈 Data Analysis & Visualization | 🤖 Machine Learning & AI | Orchestration & Containerization | 
 |---|---|---|---|
-| • Exploratory Data Analysis (EDA)<br>• Statistical Analysis & Predictive Modeling<br>• Machine Learning & Deep Learning<br>• Natural Language Processing (NLP)<br>• Time Series Analysis<br>• Data Cleaning & Feature Engineering | • Pandas<br>• NumPy<br>•  SciPy<br>• Matplotlib<br>• Seaborn<br>• Plotly<br>• Power BI<br>• Microsoft Excel<br>• Gnuplot<br>• Origin | • Scikit-learn<br>• TensorFlow<br>• PyTorch<br>• Keras<br>• MLflow<br>• Deep Learning Models<br>• LangChain<br>• RAG Pipelines|• Apache Airflow<br>• Docker<br>• Docker Compose |
+| • Exploratory Data Analysis (EDA)<br>• Statistical Analysis & Predictive Modeling<br>• Machine Learning & Deep Learning<br>• Natural Language Processing (NLP)<br>• Time Series Analysis<br>• Data Cleaning & Feature Engineering | • Pandas<br>• NumPy<br>•  SciPy<br>• Matplotlib<br>• Seaborn<br>• Plotly<br>• Power BI<br>• Microsoft Excel<br>• Gnuplot<br>• Origin | • Scikit-learn<br>• TensorFlow<br>• PyTorch<br>• Keras<br>• MLflow<br>• Deep Learning Models<br>• LangChain<br>• RAG Pipelines<br> •Recommender Systems<br>• Text Classification |• Apache Airflow<br>• Docker<br>• Docker Compose |
 
 | 🔧 Tools & Technologies |  💻 Programming | ☁️ Cloud & Platforms | 💻 Operating Systems | 🔄 Version control | 
 |---|---|---|---|---|
@@ -34,6 +34,27 @@ Skilled in Python, SQL, EDA, Machine Learning, and Deep Learning, with a strong 
 - Mentoring
 - Teamwork
 ## 🚀 Featured Projects
+
+## 📰 NewsLens — Publishing Intelligence Pipeline
+
+An end-to-end machine learning project for digital publishers. It classifies news headlines by topic, predicts which readers are likely to stop visiting, and recommends articles to win them back. All of it comes together in a Streamlit dashboard.
+
+### 🔹 Key Highlights
+
+- Trained a TF-IDF and Logistic Regression topic classifier on 50,000 real news headlines, reaching about 91% accuracy
+- Built a churn prediction model with Gradient Boosting on simulated reader engagement data
+- Developed a content-based article recommender using TF-IDF and cosine similarity, linked to the churn model so at-risk readers get suggested articles
+- Tracked all experiments with MLflow and covered the code with 22 pytest tests
+- Set up GitHub Actions CI so the tests run on every push
+- Built the pipeline in notebooks first, then refactored it into clean, reusable Python modules
+
+### 🛠️ Technologies Used
+
+Python • scikit-learn • NLP • TF-IDF • MLflow • Streamlit • pytest • GitHub Actions
+
+### 🔗 Project Link
+
+[NewsLens — Publishing Intelligence Pipeline](https://github.com/haritha-1234/newslens-publishing-intelligence)
 
 ## 🧠 DocuMind — RAG Pipeline
 
